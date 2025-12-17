@@ -45,6 +45,7 @@ A list of WG members, their affiliations, expertise, and contact areas:
 - **[Sergey Yurchenko, UCL (coordinator)](yurchenko.md)**
 - **[Aleksandra Foltynowicz Matyba, UMU](foltynowicz.md)**
 - **[Cyril Richard, CNRS](richard.md)**
+- **[Vincent Boudon, CNRS](boudon.md)**
 
 ---
 
