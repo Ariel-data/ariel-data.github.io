@@ -1,33 +1,38 @@
-## Template for  members
+# Working Group Members
 
-WG members can copy-paste and edit the template below:
+## Ibrahim Sadiek
 
-```markdown
-## Full Name
+<p>
+  <img src="assets/members/ibrahim_sadiek.jpg"
+       alt="Ibrahim Sadiek"
+       width="180">
+</p>
 
-**Affiliation:** Institution, Department, Country  
-**Role:** (e.g. WG member, liaison to [team], etc.)
+**Affiliation:** Ruhr University Bochum, Institute of Plasma Physics, Germany  
+**Role:** Senior Researcher, Moelcular spectroscopy & Cold Plasma Chemistry
 
 **Research interests:**
 
-- topic 1
-- topic 2
-- topic 3
+- Precision frequency comb spectroscopy 
+- Low-temperature plasma chemistry
+- Spectral simulations and fitting 
+- ab initio and chemical kinetics
 
 **Expertise & data areas:**
 
-- data type(s) (e.g. line lists, CIA, aerosols, chemistry)
-- specific molecules / spectral regions
-- experimental / theoretical techniques
-- relevant databases or codes
+- Experimental molecular spectroscopy
+- Contribution to molecular spectroscopic databases (HITRAN)
+- Scientific outreach and education in physics and chemistry
 
 **Web links:**
 
-- Personal / group page: [link text](https://example.com)
-- Institutional profile: [link text](https://example.com)
-- ORCID / other profiles: [link text](https://example.com)
+- Personal / group page: [link text](https://ibrahim-sadiek.com/)
+- ORCID / other profiles: [link text](https://orcid.org/0000-0001-8082-5229)
 
 **Contact for questions about:**
 
-- data type / molecules / methods
-- mission- or instrument-specific topics (if applicable)  
+- Molecular spectroscopic data for atmospheric and plasma applications
+- Chemical processes in extreme environments 
+- Laboratory spectroscopy  
+
+---
