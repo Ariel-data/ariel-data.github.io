@@ -75,7 +75,7 @@ A list of WG members, their affiliations, expertise, and contacts  organised by 
 - **Robert J. Hargreaves, HITRAN, CfA**
 - **Christian Hill, International Atomic Energy Agency**
 
-## Sinergy with the user community of retrievals, atmospheric modeling and radiative transfer
+## Sinergy with the users
 - **Benjamin Bultel, Université Paris-Saclay**
 - **Athena Coustenis, LESIA, Paris Observatory**
 - **Christiane Helling, Space Research Institute**
