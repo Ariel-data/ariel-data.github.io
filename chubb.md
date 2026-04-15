@@ -1,5 +1,4 @@
 
-```markdown
 ## Katy Chubb
 
 <p>
@@ -9,7 +8,7 @@
 </p>
 
 **Affiliation:** Senior Postdoc at the University of Bristol, School of Physics, UK  
-**Role:** Working group co-ordinator
+**Role:** Ariel data working group co-ordinator
 
 **Research interests:**
 
@@ -18,10 +17,12 @@
 
 **Expertise & data areas:**
 
-- data type(s) (e.g. line lists, CIA, aerosols, chemistry)
-- specific molecules / spectral regions
-- experimental / theoretical techniques
-- relevant databases or codes
+- data type(s): line lists, opacities
+- UV to IR region
+- Theoretical computation of line lists and opacities
+- ExoMolOP database
+- ARCiS atmospheric retrieval and modelling code
+- User of data: aerosols
 
 **Web links:**
 
@@ -31,5 +32,6 @@
 
 **Contact for questions about:**
 
+- working group organisation/coordination
 - data type / molecules / methods
 - mission- or instrument-specific topics (if applicable)  
