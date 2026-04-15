@@ -1,18 +1,20 @@
-## Template for  members
-
-WG members can copy-paste and edit the template below:
 
 ```markdown
-## Full Name
+## Katy Chubb
 
-**Affiliation:** Institution, Department, Country  
-**Role:** (e.g. WG member, liaison to [team], etc.)
+<p>
+  <img src="assets/members/katy-chubb.png"
+       alt="Katy Chubb"
+       width="180">
+</p>
+
+**Affiliation:** Senior Postdoc at the University of Bristol, School of Physics, UK  
+**Role:** Working group co-ordinator
 
 **Research interests:**
 
-- topic 1
-- topic 2
-- topic 3
+- Computing molecular opacities
+- Exoplanet atmosphere retrievals and models
 
 **Expertise & data areas:**
 
