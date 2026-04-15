@@ -42,7 +42,7 @@ A list of WG members, their affiliations, expertise, and contacts  organised by 
 ## Coordinators
 - **Katy Chubb, Bristol**
 - **Severine Robert, BIRA-IASB**
-- **Clara Sousa Silva, Bard**
+- **[Clara Sousa Silva, Bard](silva.md)**
 - **[Sergey Yurchenko, UCL](yurchenko.md)**
 
 ## Molecular and atomic data
