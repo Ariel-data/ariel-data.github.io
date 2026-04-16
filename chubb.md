@@ -8,7 +8,7 @@
 </p>
 
 **Affiliation:** Senior Postdoc at the University of Bristol, School of Physics, UK  
-**Role:** Ariel data working group co-ordinator
+**Role:** Coordinator of the Ariel Spectroscopic Data and Databases Working Group
 
 **Research interests:**
 
