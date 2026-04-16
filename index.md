@@ -40,7 +40,7 @@ The WG brings together experts in:
 A list of WG members, their affiliations, expertise, and contacts  organised by their expert fields 
 
 ## Coordinators
-- **Katy Chubb, Bristol**
+- **[Katy Chubb, Bristol](chubb.md)**
 - **Severine Robert, BIRA-IASB**
 - **[Clara Sousa Silva, Bard](silva.md)**
 - **[Sergey Yurchenko, UCL](yurchenko.md)**
